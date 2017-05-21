@@ -20,13 +20,16 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Chattanooga](http://www.meetup.com/Papers-We-Love-Chattanooga/)
 * [Columbus, Ohio](http://www.meetup.com/Papers-We-Love-Columbus/)
 * [Dallas](http://www.papersdallas.com/)
+* [Gothenburg](https://www.meetup.com/Papers-We-Love-Gothenburg/)
 * [Hamburg](http://www.meetup.com/Papers-We-Love-Hamburg/)
 * [Hyderabad](http://www.meetup.com/papers-we-love-hyderabad/)
 * [Iasi](http://www.meetup.com/Papers-We-Love-Iasi/)
 * [Kathmandu](https://www.facebook.com/groups/PapersWeLoveKathmandu/)
+* [Lebanon](http://www.paperswelovelb.club)
 * [London](http://www.meetup.com/papers-we-love-london)
 * [Los Angeles](http://www.meetup.com/papers-we-love-la)
 * [Madrid](http://www.meetup.com/Papers-We-Love-Madrid/)
+* [Medellín](https://www.meetup.com/paperswelovemde/)
 * [Montreal](http://www.meetup.com/Papers-We-Love-Montreal/)
 * [Munich](http://www.meetup.com/Papers-We-Love-Munich/)
 * [New York City](http://www.meetup.com/papers-we-love/)
@@ -34,6 +37,7 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Philadelphia](http://www.meetup.com/Papers-We-Love-Philadelphia/)
 * [Portland](http://www.meetup.com/Papers-We-Love-PDX/)
 * [Pune](http://www.meetup.com/Doo-Things)
+* [Raleigh-Durham](https://www.meetup.com/Papers-We-Love-Raleigh-Durham/)
 * [Reykjavík](http://www.meetup.com/Papers-We-Love-Reykjavik)
 * [San Diego](http://www.meetup.com/Papers-We-Love-San-Diego/)
 * [San Francisco](http://www.meetup.com/papers-we-love-too/)
@@ -44,7 +48,7 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Toronto](http://www.meetup.com/Papers-We-Love-Toronto/)
 * [Vienna](http://www.meetup.com/Papers-We-Love-Vienna/)
 * [Washington, DC](http://www.meetup.com/Papers-We-Love-DC-NoVA/)
-* [Winnipeg](http://www.meetup.com/Papers-We-Love-Winnipeg/)
+* [Winnipeg](http://pwlwpg.ca/)
 
 All of our meetups follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
